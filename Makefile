@@ -1,6 +1,6 @@
 # Zip Naming
-NAME ?= AtomX
-CODENAME ?= lisa
+NAME ?= 778Gey-GeminkHabis
+CODENAME ?= taoyao
 VERSION ?= v1.0
 CUSTOM ?= $(shell date "+%H%M")
 
