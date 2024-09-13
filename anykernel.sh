@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Atom-X-Kernel
+kernel.string=778Gey-Kernel
 do.devicecheck=1
 do.modules=1
 do.systemless=1
@@ -12,7 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=lisa
 device.name2=redwood
-device.name3=redwoodin
+device.name3=taoyao
 supported.versions=11.0-14.0
 supported.patchlevels=
 supported.vendorpatchlevels=
