@@ -1,6 +1,6 @@
 # Zip Naming
 NAME ?= 778Gey-GeminkHabis
-CODENAME ?= taoyao
+CODENAME ?= sm7325
 VERSION ?= v1.0
 CUSTOM ?= $(shell date "+%H%M")
 
