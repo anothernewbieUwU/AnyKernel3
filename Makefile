@@ -1,7 +1,7 @@
 # Zip Naming
-NAME ?= 778Gey-baiklahos
+NAME ?= GamingX
 CODENAME ?= sm7325
-VERSION ?= v1.0
+VERSION ?= -v1.0
 CUSTOM ?= $(shell date "+%H%M")
 
 ZIP := $(NAME)-$(CODENAME)$(VERSION)-$(CUSTOM)
