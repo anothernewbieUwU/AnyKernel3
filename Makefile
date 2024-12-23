@@ -1,6 +1,6 @@
 # Zip Naming
 NAME ?= YuhengKeqing
-CODENAME ?= -Redwood
+CODENAME ?= Redwood
 VERSION ?= -v1.2-Next
 CUSTOM ?= $(shell date "+%H%M")
 
