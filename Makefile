@@ -1,7 +1,7 @@
 # Zip Naming
 NAME ?= YuhengKeqing
 CODENAME ?= Redwood
-VERSION ?= KSU-Next
+VERSION ?= v1.2-Next
 CUSTOM ?= $(shell date "+%H%M")
 
 ZIP := $(NAME)-$(CODENAME)$(VERSION)-$(CUSTOM)
